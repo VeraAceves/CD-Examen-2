@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+22
+-sourcepath
+'C:/Users/Vera/Desktop/FP/CD/deposito/cuentas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Vera/Desktop/FP/CD/deposito/cuentas/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'cuentas 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'cuentas 1.0-SNAPSHOT API'
+cd.cuentas
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\src\main\java = 1741013238694
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\allclasses-index.html = 1741273269931
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\allpackages-index.html = 1741273269938
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\element-list = 1741273269780
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\help-doc.html = 1741273270020
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\index-all.html = 1741273269997
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\index.html = 1741273270008
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\member-search-index.js = 1741273269958
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\module-search-index.js = 1741273269942
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\overview-tree.html = 1741273269896
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\package-search-index.js = 1741273269948
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\search.html = 1741273270004
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\tag-search-index.js = 1741273269962
+C:\Users\Vera\Desktop\FP\CD\deposito\cuentas\target\reports\apidocs\type-search-index.js = 1741273269955
